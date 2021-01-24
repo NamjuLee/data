@@ -1,3 +1,11 @@
 
 class
-
+0: 'CIRCLE',
+1: 'TRI-GON',
+2: 'ARROW_SINGLE',
+3: 'ARROW_DOUBLE',
+4: 'RECTANGLE',
+5: 'TEXT_LEADERLINE',
+6: 'CURVE',
+7: 'HEART',
+8: 'CLOUD'
