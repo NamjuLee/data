@@ -1,0 +1,10640 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.061034,
+          37.9481
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "소요산",
+        "no": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05479,
+          37.927878
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "동두천",
+        "no": "101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.057277,
+          37.913702
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "보산",
+        "no": "102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.056482,
+          37.901885
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "동두천중앙",
+        "no": "103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.055716,
+          37.892334
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "지행",
+        "no": "104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.061277,
+          37.843188
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "덕정",
+        "no": "105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.056486,
+          37.818486
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "덕계",
+        "no": "106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.044708,
+          37.774381
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "양주",
+        "no": "107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.042292,
+          37.75938
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "녹양",
+        "no": "108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.044213,
+          37.748577
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "가능",
+        "no": "109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.045958,
+          37.738415
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "의정부",
+        "no": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.046895,
+          37.724846
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "회룡",
+        "no": "111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.047455,
+          37.709914
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "망월사",
+        "no": "112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.046222,
+          37.689313
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "도봉산",
+        "no": "113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.045595,
+          37.679563
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "도봉",
+        "no": "114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.044273,
+          37.667503
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "방학",
+        "no": "115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.047731,
+          37.653166
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "창동",
+        "no": "116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.051269,
+          37.644799
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "녹천",
+        "no": "117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.058831,
+          37.633212
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "월계",
+        "no": "118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.061835,
+          37.623632
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "광운대",
+        "no": "119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.065851,
+          37.614805
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "석계",
+        "no": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.067325,
+          37.601854
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "신이문",
+        "no": "121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.063549,
+          37.596073
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "외대앞",
+        "no": "122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.057583,
+          37.58946
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "회기",
+        "no": "123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.046835,
+          37.580178
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "청량리",
+        "no": "124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.034893,
+          37.578103
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "제기동",
+        "no": "125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.025087,
+          37.575297
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "신설동",
+        "no": "126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.016429,
+          37.572627
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "동묘앞",
+        "no": "127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.009745,
+          37.57142
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "동대문",
+        "no": "128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.001849,
+          37.570926
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "종로5가",
+        "no": "129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.991806,
+          37.571607
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "종로3가",
+        "no": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.982923,
+          37.570161
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "종각",
+        "no": "131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.977108,
+          37.564718
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "시청",
+        "no": "132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.972559,
+          37.554648
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "서울역",
+        "no": "133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9713,
+          37.541021
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "남영",
+        "no": "134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.964561,
+          37.529849
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "용산",
+        "no": "135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.942454,
+          37.514219
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "노량진",
+        "no": "136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.926382,
+          37.513342
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "대방",
+        "no": "137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.917169,
+          37.517122
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "신길",
+        "no": "138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.907628,
+          37.515504
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "영등포",
+        "no": "139"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.891295,
+          37.508725
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "신도림",
+        "no": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.881966,
+          37.503039
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "구로",
+        "no": "141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.870793,
+          37.496756
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "구일",
+        "no": "142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.85868,
+          37.494594
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "개봉",
+        "no": "143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.845365,
+          37.494526
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "오류동",
+        "no": "144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.823388,
+          37.492258
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "온수",
+        "no": "145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.811502,
+          37.485178
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "역곡",
+        "no": "146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.79544,
+          37.482753
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "소사",
+        "no": "147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.782686,
+          37.48405
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "부천",
+        "no": "148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.764843,
+          37.486562
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "중동",
+        "no": "149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.753664,
+          37.4876
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "송내",
+        "no": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.74109,
+          37.488418
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "부개",
+        "no": "151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.724805,
+          37.489493
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "부평",
+        "no": "152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.707704,
+          37.483664
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "백운",
+        "no": "153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.702896,
+          37.471408
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "동암",
+        "no": "154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.694181,
+          37.464737
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "간석",
+        "no": "155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.679923,
+          37.464941
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "주안",
+        "no": "156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.668672,
+          37.46607
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "도화",
+        "no": "157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.656666,
+          37.466769
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "제물포",
+        "no": "158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.642706,
+          37.468446
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "도원",
+        "no": "159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.632802,
+          37.475276
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "동인천",
+        "no": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.616936,
+          37.476691
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "인천",
+        "no": "161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.882343,
+          37.481072
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "가산디지털단지",
+        "no": "P142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.889249,
+          37.466613
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "독산",
+        "no": "P143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.89398,
+          37.455626
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "금천구청",
+        "no": "P144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.884466,
+          37.416182
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "광명",
+        "no": "P144-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.902295,
+          37.435047
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "석수",
+        "no": "P145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.908706,
+          37.419232
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "관악",
+        "no": "P146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.922874,
+          37.401592
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "안양",
+        "no": "P147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.935433,
+          37.384653
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "명학",
+        "no": "P148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.943429,
+          37.372221
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "금정",
+        "no": "P149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.948462,
+          37.35356
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "군포",
+        "no": "P150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.948345,
+          37.344285
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "당정",
+        "no": "P151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.948217,
+          37.320852
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "의왕",
+        "no": "P152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97075,
+          37.300349
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "성균관대",
+        "no": "P153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.989627,
+          37.283862
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "화서",
+        "no": "P154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.999874,
+          37.265974
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "수원",
+        "no": "P155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.013222,
+          37.245025
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "세류",
+        "no": "P156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.032731,
+          37.207503
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "병점",
+        "no": "P157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.051672,
+          37.195504
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "서동탄",
+        "no": "P157-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.04318,
+          37.187533
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "세마",
+        "no": "P158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.063197,
+          37.168953
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "오산대",
+        "no": "P159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.06672,
+          37.145885
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "오산",
+        "no": "P160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.062278,
+          37.109447
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "진위",
+        "no": "P161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.054301,
+          37.075696
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "송탄",
+        "no": "P162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.052819,
+          37.056496
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "서정리",
+        "no": "P163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.070444,
+          37.0188
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "지제",
+        "no": "P164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.085159,
+          36.990726
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "평택",
+        "no": "P165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.126964,
+          36.916076
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "성환",
+        "no": "P166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.143904,
+          36.870593
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "직산",
+        "no": "P167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.14896,
+          36.833705
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "두정",
+        "no": "P168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.146826,
+          36.810005
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "천안",
+        "no": "P169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.135763,
+          36.801215
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "봉명",
+        "no": "P170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1214,
+          36.793759
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "쌍용",
+        "no": "P171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.104361,
+          36.792053
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "아산",
+        "no": "P172"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.052991,
+          36.777629
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "배방",
+        "no": "P174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.003249,
+          36.780483
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "온양온천",
+        "no": "P176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.951108,
+          36.769502
+        ]
+      },
+      "properties": {
+        "line": "01호선",
+        "name": "신창",
+        "no": "P177"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.977108,
+          37.564718
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "시청",
+        "no": "201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.982618,
+          37.566014
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "을지로입구",
+        "no": "202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.99191,
+          37.566295
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "을지로3가",
+        "no": "203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.998079,
+          37.566941
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "을지로4가",
+        "no": "204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.007896,
+          37.565138
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "동대문역사문화공원",
+        "no": "205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.01782,
+          37.565972
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "신당",
+        "no": "206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.029354,
+          37.564354
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "상왕십리",
+        "no": "207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.037732,
+          37.561533
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "왕십리",
+        "no": "208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.043655,
+          37.555273
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "한양대",
+        "no": "209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.047367,
+          37.547184
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "뚝섬",
+        "no": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.055961,
+          37.544581
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "성수",
+        "no": "211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.050899,
+          37.561904
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "용답",
+        "no": "211-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.046481,
+          37.57004
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "신답",
+        "no": "211-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.038091,
+          37.574028
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "용두",
+        "no": "211-3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.025087,
+          37.575297
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "신설동",
+        "no": "211-4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.07023,
+          37.540693
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "건대입구",
+        "no": "212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.085916,
+          37.537077
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "구의",
+        "no": "213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.094681,
+          37.535095
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "강변",
+        "no": "214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10379,
+          37.520733
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "잠실나루",
+        "no": "215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.102234,
+          37.51395
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "잠실",
+        "no": "216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.086162,
+          37.511687
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "잠실새내",
+        "no": "217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.073642,
+          37.510997
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "종합운동장",
+        "no": "218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.06316,
+          37.508844
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "삼성",
+        "no": "219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.049008,
+          37.504503
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "선릉",
+        "no": "220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.036456,
+          37.500622
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "역삼",
+        "no": "221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.027926,
+          37.497175
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "강남",
+        "no": "222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.01408,
+          37.493415
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "교대",
+        "no": "223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.007917,
+          37.491897
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "서초",
+        "no": "224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.997596,
+          37.481426
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "방배",
+        "no": "225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.981685,
+          37.47653
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "사당",
+        "no": "226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.963693,
+          37.47693
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "낙성대",
+        "no": "227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.952739,
+          37.481247
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "서울대입구",
+        "no": "228"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.941892,
+          37.482362
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "봉천",
+        "no": "229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.929715,
+          37.484201
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "신림",
+        "no": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.913149,
+          37.487462
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "신대방",
+        "no": "231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.901401,
+          37.485266
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "구로디지털단지",
+        "no": "232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.895801,
+          37.49297
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "대림",
+        "no": "233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.891295,
+          37.508725
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "신도림",
+        "no": "234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.882768,
+          37.514287
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "도림천",
+        "no": "234-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.865819,
+          37.512398
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "양천구청",
+        "no": "234-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.852912,
+          37.520074
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "신정네거리",
+        "no": "234-3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.846683,
+          37.531768
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "까치산",
+        "no": "234-4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.89476,
+          37.517933
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "문래",
+        "no": "235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.895951,
+          37.52497
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "영등포구청",
+        "no": "236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.902281,
+          37.53438
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "당산",
+        "no": "237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.913739,
+          37.549463
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "합정",
+        "no": "238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.925381,
+          37.557192
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "홍대입구",
+        "no": "239"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.936893,
+          37.555134
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "신촌",
+        "no": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.946013,
+          37.556733
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "이대",
+        "no": "241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.956141,
+          37.557345
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "아현",
+        "no": "242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.963672,
+          37.559973
+        ]
+      },
+      "properties": {
+        "line": "02호선",
+        "name": "충정로",
+        "no": "243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.747569,
+          37.676087
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "대화",
+        "no": "309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.761334,
+          37.670072
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "주엽",
+        "no": "310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.773359,
+          37.659477
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "정발산",
+        "no": "311"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.77762,
+          37.652206
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "마두",
+        "no": "312"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.78787,
+          37.643114
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "백석",
+        "no": "313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.811024,
+          37.631626
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "대곡",
+        "no": "314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.83265,
+          37.634592
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "화정",
+        "no": "315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.843041,
+          37.653324
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "원당",
+        "no": "316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.872642,
+          37.650658
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "원흥",
+        "no": "317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.895558,
+          37.653083
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "삼송",
+        "no": "318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.913951,
+          37.648048
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "지축",
+        "no": "319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.918821,
+          37.636763
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "구파발",
+        "no": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.921008,
+          37.619001
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "연신내",
+        "no": "321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.929887,
+          37.610469
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "불광",
+        "no": "322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.935756,
+          37.600927
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "녹번",
+        "no": "323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.943736,
+          37.589066
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "홍제",
+        "no": "324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.950291,
+          37.582299
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "무악재",
+        "no": "325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.957748,
+          37.574571
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "독립문",
+        "no": "326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97353,
+          37.575762
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "경복궁",
+        "no": "327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.985443,
+          37.576477
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "안국",
+        "no": "328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.991806,
+          37.571607
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "종로3가",
+        "no": "329"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.99191,
+          37.566295
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "을지로3가",
+        "no": "330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.99428,
+          37.561243
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "충무로",
+        "no": "331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.005602,
+          37.559052
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "동대입구",
+        "no": "332"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.010655,
+          37.55434
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "약수",
+        "no": "333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.015872,
+          37.548034
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "금호",
+        "no": "334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.017965,
+          37.540685
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "옥수",
+        "no": "335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.028461,
+          37.527072
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "압구정",
+        "no": "336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.020114,
+          37.516334
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "신사",
+        "no": "337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.01122,
+          37.512759
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "잠원",
+        "no": "338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.004943,
+          37.50481
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "고속터미널",
+        "no": "339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.01408,
+          37.493415
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "교대",
+        "no": "340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.016189,
+          37.485013
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "남부터미널",
+        "no": "341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.034631,
+          37.484147
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "양재",
+        "no": "342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.046769,
+          37.486947
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "매봉",
+        "no": "343"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.055381,
+          37.490858
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "도곡",
+        "no": "344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.063642,
+          37.494612
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "대치",
+        "no": "345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.070594,
+          37.496663
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "학여울",
+        "no": "346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.079532,
+          37.493514
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "대청",
+        "no": "347"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.08439,
+          37.483681
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "일원",
+        "no": "348"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10188,
+          37.487371
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "수서",
+        "no": "349"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.118234,
+          37.492522
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "가락시장",
+        "no": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.12454,
+          37.495918
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "경찰병원",
+        "no": "351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.128111,
+          37.502162
+        ]
+      },
+      "properties": {
+        "line": "03호선",
+        "name": "오금",
+        "no": "352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.079066,
+          37.670272
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "당고개",
+        "no": "409"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.073572,
+          37.660878
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "상계",
+        "no": "410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.061368,
+          37.655128
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "노원",
+        "no": "411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.047731,
+          37.653166
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "창동",
+        "no": "412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.034709,
+          37.648627
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "쌍문",
+        "no": "413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.025732,
+          37.638052
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "수유",
+        "no": "414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.025983,
+          37.62667
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "미아",
+        "no": "415"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.030053,
+          37.613292
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "미아사거리",
+        "no": "416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.025053,
+          37.603407
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "길음",
+        "no": "417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.016403,
+          37.592624
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "성신여대입구",
+        "no": "418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.006221,
+          37.588458
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "한성대입구",
+        "no": "419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.001844,
+          37.582336
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "혜화",
+        "no": "420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.009745,
+          37.57142
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "동대문",
+        "no": "421"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.007896,
+          37.565138
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "동대문역사문화공원",
+        "no": "422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.99428,
+          37.561243
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "충무로",
+        "no": "423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.986325,
+          37.560989
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "명동",
+        "no": "424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.978246,
+          37.558514
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "회현",
+        "no": "425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.972559,
+          37.554648
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "서울역",
+        "no": "426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.972106,
+          37.54456
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "숙대입구",
+        "no": "427"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97311,
+          37.534777
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "삼각지",
+        "no": "428"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.967894,
+          37.52917
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "신용산",
+        "no": "429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.974345,
+          37.522272
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "이촌",
+        "no": "430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.979306,
+          37.502971
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "동작",
+        "no": "431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.981989,
+          37.486263
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "총신대입구(이수)",
+        "no": "432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.981685,
+          37.47653
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "사당",
+        "no": "433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.989134,
+          37.463873
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "남태령",
+        "no": "434"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.002303,
+          37.451673
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "선바위",
+        "no": "435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.007888,
+          37.443885
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "경마공원",
+        "no": "436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.006523,
+          37.435675
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "대공원",
+        "no": "437"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.996568,
+          37.433021
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "과천",
+        "no": "438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.98978,
+          37.426513
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "정부과천청사",
+        "no": "439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.976715,
+          37.401553
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "인덕원",
+        "no": "440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.963883,
+          37.394287
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "평촌",
+        "no": "441"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.950806,
+          37.389793
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "범계",
+        "no": "442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.943429,
+          37.372221
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "금정",
+        "no": "443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.933274,
+          37.358101
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "산본",
+        "no": "444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.925365,
+          37.349801
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "수리산",
+        "no": "445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.917332,
+          37.328467
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "대야미",
+        "no": "446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.903524,
+          37.312212
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "반월",
+        "no": "447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.866489,
+          37.302795
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "상록수",
+        "no": "448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.85344,
+          37.309689
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "한대앞",
+        "no": "449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.838573,
+          37.315941
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "중앙",
+        "no": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.823249,
+          37.316777
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "고잔",
+        "no": "451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.805913,
+          37.320646
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "초지",
+        "no": "452"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.788532,
+          37.327082
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "안산",
+        "no": "453"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.765844,
+          37.338212
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "신길온천",
+        "no": "454"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.742989,
+          37.351735
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "정왕",
+        "no": "455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.738714,
+          37.362357
+        ]
+      },
+      "properties": {
+        "line": "04호선",
+        "name": "오이도",
+        "no": "456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.812741,
+          37.577446
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "방화",
+        "no": "510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.806171,
+          37.572399
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "개화산",
+        "no": "511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.801058,
+          37.562434
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "김포공항",
+        "no": "512"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.811973,
+          37.561184
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "송정",
+        "no": "513"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.825448,
+          37.560183
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "마곡",
+        "no": "514"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.837668,
+          37.558598
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "발산",
+        "no": "515"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.836318,
+          37.548768
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "우장산",
+        "no": "516"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.840461,
+          37.541513
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "화곡",
+        "no": "517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.846683,
+          37.531768
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "까치산",
+        "no": "518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.856191,
+          37.524997
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "신정",
+        "no": "519"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.864931,
+          37.526065
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "목동",
+        "no": "520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.875181,
+          37.524496
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "오목교",
+        "no": "521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.886176,
+          37.525583
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "양평(5호선)",
+        "no": "522"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.895951,
+          37.52497
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "영등포구청",
+        "no": "523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.905139,
+          37.522669
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "영등포시장",
+        "no": "524"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.917169,
+          37.517122
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "신길",
+        "no": "525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.924191,
+          37.521624
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "여의도",
+        "no": "526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.932901,
+          37.527098
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "여의나루",
+        "no": "527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.945932,
+          37.539574
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "마포",
+        "no": "528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.951592,
+          37.544018
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "공덕",
+        "no": "529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.95682,
+          37.553736
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "애오개",
+        "no": "530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.963672,
+          37.559973
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "충정로",
+        "no": "531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.966641,
+          37.565773
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "서대문",
+        "no": "532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.976669,
+          37.571026
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "광화문",
+        "no": "533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.991806,
+          37.571607
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "종로3가",
+        "no": "534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.998079,
+          37.566941
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "을지로4가",
+        "no": "535"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.007896,
+          37.565138
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "동대문역사문화공원",
+        "no": "536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.013828,
+          37.560245
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "청구",
+        "no": "537"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.020331,
+          37.554548
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "신금호",
+        "no": "538"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.029476,
+          37.557322
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "행당",
+        "no": "539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.037732,
+          37.561533
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "왕십리",
+        "no": "540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.042973,
+          37.5661
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "마장",
+        "no": "541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.052704,
+          37.566747
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "답십리",
+        "no": "542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.064623,
+          37.56144
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "장한평",
+        "no": "543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.079542,
+          37.557121
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "군자",
+        "no": "544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.089761,
+          37.551691
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "아차산",
+        "no": "545"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10357,
+          37.545303
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "광나루",
+        "no": "546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.123572,
+          37.538397
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "천호",
+        "no": "547"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.132481,
+          37.535804
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "강동",
+        "no": "548"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.140004,
+          37.537801
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "길동",
+        "no": "549"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.142853,
+          37.545477
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "굽은다리",
+        "no": "550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.143999,
+          37.55137
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "명일",
+        "no": "551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.154151,
+          37.555004
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "고덕",
+        "no": "552"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.166417,
+          37.556712
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "상일동",
+        "no": "553"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.175864,
+          37.557465
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "강일",
+        "no": "554"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.192968,
+          37.563132
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "미사",
+        "no": "555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.203912,
+          37.552125
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "하남풍산",
+        "no": "556"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.206869,
+          37.541682
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "하남시청",
+        "no": "557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.223249,
+          37.539809
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "하남검단산",
+        "no": "558"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.136248,
+          37.527788
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "둔촌동",
+        "no": "P549"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.130848,
+          37.516078
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "올림픽공원",
+        "no": "P550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.126133,
+          37.508857
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "방이",
+        "no": "P551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.128111,
+          37.502162
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "오금",
+        "no": "P552"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.13482,
+          37.498079
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "개롱",
+        "no": "P553"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.14415,
+          37.493105
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "거여",
+        "no": "P554"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.152781,
+          37.49499
+        ]
+      },
+      "properties": {
+        "line": "05호선",
+        "name": "마천",
+        "no": "P555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.915577,
+          37.598605
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "응암",
+        "no": "610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.922744,
+          37.606021
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "역촌",
+        "no": "611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.929887,
+          37.610469
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "불광",
+        "no": "612"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.933031,
+          37.618456
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "독바위",
+        "no": "613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.921008,
+          37.619001
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "연신내",
+        "no": "614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.91727,
+          37.611377
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "구산",
+        "no": "615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.913629,
+          37.591148
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "새절",
+        "no": "616"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.909645,
+          37.583876
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "증산",
+        "no": "617"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.900984,
+          37.576646
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "디지털미디어시티",
+        "no": "618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.899298,
+          37.569532
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "월드컵경기장",
+        "no": "619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.903343,
+          37.563515
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "마포구청",
+        "no": "620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.910052,
+          37.556094
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "망원",
+        "no": "621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.913739,
+          37.549463
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "합정",
+        "no": "622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.922852,
+          37.547716
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "상수",
+        "no": "623"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.931993,
+          37.547456
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "광흥창",
+        "no": "624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.942069,
+          37.547771
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "대흥",
+        "no": "625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.951592,
+          37.544018
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "공덕",
+        "no": "626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.961351,
+          37.539261
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "효창공원앞",
+        "no": "627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97311,
+          37.534777
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "삼각지",
+        "no": "628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.986695,
+          37.534675
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "녹사평",
+        "no": "629"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.994302,
+          37.534488
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "이태원",
+        "no": "630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.001725,
+          37.539631
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "한강진",
+        "no": "631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.007055,
+          37.548013
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "버티고개",
+        "no": "632"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.010655,
+          37.55434
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "약수",
+        "no": "633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.013828,
+          37.560245
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "청구",
+        "no": "634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.01782,
+          37.565972
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "신당",
+        "no": "635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.016429,
+          37.572627
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "동묘앞",
+        "no": "636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.015241,
+          37.579661
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "창신",
+        "no": "637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.019381,
+          37.585286
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "보문",
+        "no": "638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.029005,
+          37.586272
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "안암",
+        "no": "639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.036296,
+          37.590508
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "고려대",
+        "no": "640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.041518,
+          37.601948
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "월곡",
+        "no": "641"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.048491,
+          37.606377
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "상월곡",
+        "no": "642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.056431,
+          37.610537
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "돌곶이",
+        "no": "643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.065851,
+          37.614805
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "석계",
+        "no": "644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.07512,
+          37.617983
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "태릉입구",
+        "no": "645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.084689,
+          37.620064
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "화랑대",
+        "no": "646"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.091401,
+          37.617283
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "봉화산",
+        "no": "647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.103218,
+          37.612887
+        ]
+      },
+      "properties": {
+        "line": "06호선",
+        "name": "신내",
+        "no": "648"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.053196,
+          37.700109
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "장암",
+        "no": "709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.046222,
+          37.689313
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "도봉산",
+        "no": "710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.055315,
+          37.67785
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "수락산",
+        "no": "711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.057675,
+          37.66494
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "마들",
+        "no": "712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.061368,
+          37.655128
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "노원",
+        "no": "713"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.064303,
+          37.644583
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "중계",
+        "no": "714"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.06799,
+          37.636352
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "하계",
+        "no": "715"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.072896,
+          37.625742
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "공릉",
+        "no": "716"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.07512,
+          37.617983
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "태릉입구",
+        "no": "717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.077725,
+          37.610637
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "먹골",
+        "no": "718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.079264,
+          37.602545
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "중화",
+        "no": "719"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.085032,
+          37.596362
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "상봉",
+        "no": "720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.087503,
+          37.588579
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "면목",
+        "no": "721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.088478,
+          37.580894
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "사가정",
+        "no": "722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.086727,
+          37.573647
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "용마산",
+        "no": "723"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.08432,
+          37.565923
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "중곡",
+        "no": "724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.079542,
+          37.557121
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "군자",
+        "no": "725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.074658,
+          37.548014
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "어린이대공원",
+        "no": "726"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.07023,
+          37.540693
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "건대입구",
+        "no": "727"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.066704,
+          37.53154
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "뚝섬유원지",
+        "no": "728"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05335,
+          37.519365
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "청담",
+        "no": "729"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.04128,
+          37.517186
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "강남구청",
+        "no": "730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.031656,
+          37.514229
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "학동",
+        "no": "731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.021415,
+          37.511093
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "논현",
+        "no": "732"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.011727,
+          37.508178
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "반포",
+        "no": "733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.004943,
+          37.50481
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "고속터미널",
+        "no": "734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.993513,
+          37.487618
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "내방",
+        "no": "735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.981989,
+          37.486263
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "총신대입구(이수)",
+        "no": "736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.971251,
+          37.484596
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "남성",
+        "no": "737"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.953822,
+          37.496029
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "숭실대입구",
+        "no": "738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.94791,
+          37.502834
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "상도",
+        "no": "739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.93915,
+          37.504898
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "장승배기",
+        "no": "740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.928276,
+          37.499701
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "신대방삼거리",
+        "no": "741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.920428,
+          37.499872
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "보라매",
+        "no": "742"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.90993,
+          37.50008
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "신풍",
+        "no": "743"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.895801,
+          37.49297
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "대림",
+        "no": "744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.887249,
+          37.486056
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "남구로",
+        "no": "745"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.882343,
+          37.481072
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "가산디지털단지",
+        "no": "746"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.867911,
+          37.47605
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "철산",
+        "no": "747"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.854876,
+          37.479252
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "광명사거리",
+        "no": "748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.838713,
+          37.486637
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "천왕",
+        "no": "749"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.823388,
+          37.492258
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "온수",
+        "no": "750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.810939,
+          37.506207
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "까치울",
+        "no": "751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.797337,
+          37.50538
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "부천종합운동장",
+        "no": "752"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.787036,
+          37.503663
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "춘의",
+        "no": "753"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.77596,
+          37.503048
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "신중동",
+        "no": "754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.763538,
+          37.504631
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "부천시청",
+        "no": "755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.753083,
+          37.505781
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "상동",
+        "no": "756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.742153,
+          37.506411
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "삼산체육관",
+        "no": "757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.73128,
+          37.506997
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "굴포천",
+        "no": "758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.720548,
+          37.508336
+        ]
+      },
+      "properties": {
+        "line": "07호선",
+        "name": "부평구청",
+        "no": "759"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.127562,
+          37.55021
+        ]
+      },
+      "properties": {
+        "line": "08호선",
+        "name": "암사",
+        "no": "810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.123572,
+          37.538397
+        ]
+      },
+      "properties": {
+        "line": "08호선",
+        "name": "천호",
+        "no": "811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.120508,
+          37.530341
+        ]
+      },
+      "properties": {
+        "line": "08호선",
+        "name": "강동구청",
+        "no": "812"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.112359,
+          37.517409
+        ]
+      },
+      "properties": {
+        "line": "08호선",
+        "name": "몽촌토성",
+        "no": "813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.102234,
+          37.51395
+        ]
+      },
+      "properties": {
+        "line": "08호선",
+        "name": "잠실",
+        "no": "814"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.106979,
+          37.505431
+        ]
+      },
+      "properties": {
+        "line": "08호선",
+        "name": "석촌",
+        "no": "815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.112183,
+          37.499703
+        ]
+      },
+      "properties": {
+        "line": "08호선",
+        "name": "송파",
+        "no": "816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.118234,
+          37.492522
+        ]
+      },
+      "properties": {
+        "line": "08호선",
+        "name": "가락시장",
+        "no": "817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1225,
+          37.485855
+        ]
+      },
+      "properties": {
+        "line": "08호선",
+        "name": "문정",
+        "no": "818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.126191,
+          37.478703
+        ]
+      },
+      "properties": {
+        "line": "08호선",
+        "name": "장지",
+        "no": "819"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.126662,
+          37.470047
+        ]
+      },
+      "properties": {
+        "line": "08호선",
+        "name": "복정",
+        "no": "820"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.149908,
+          37.457122
+        ]
+      },
+      "properties": {
+        "line": "08호선",
+        "name": "산성",
+        "no": "821"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.159816,
+          37.451535
+        ]
+      },
+      "properties": {
+        "line": "08호선",
+        "name": "남한산성입구",
+        "no": "822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.156866,
+          37.44521
+        ]
+      },
+      "properties": {
+        "line": "08호선",
+        "name": "단대오거리",
+        "no": "823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.147564,
+          37.440918
+        ]
+      },
+      "properties": {
+        "line": "08호선",
+        "name": "신흥",
+        "no": "824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.140722,
+          37.437428
+        ]
+      },
+      "properties": {
+        "line": "08호선",
+        "name": "수진",
+        "no": "825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.129087,
+          37.43213
+        ]
+      },
+      "properties": {
+        "line": "08호선",
+        "name": "모란",
+        "no": "826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.798153,
+          37.578608
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "개화",
+        "no": "901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.801058,
+          37.562434
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "김포공항",
+        "no": "902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.810678,
+          37.563726
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "공항시장",
+        "no": "903"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.816601,
+          37.567532
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "신방화",
+        "no": "904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.829497,
+          37.567336
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "마곡나루",
+        "no": "905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.841333,
+          37.568381
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "양천향교",
+        "no": "906"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.854456,
+          37.561391
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "가양",
+        "no": "907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.861939,
+          37.557402
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "증미",
+        "no": "908"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.865689,
+          37.550632
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "등촌",
+        "no": "909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.874916,
+          37.546936
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "염창",
+        "no": "910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.88308,
+          37.544277
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "신목동",
+        "no": "911"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.893525,
+          37.53802
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "선유도",
+        "no": "912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.902281,
+          37.53438
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "당산",
+        "no": "913"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.917874,
+          37.528105
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "국회의사당",
+        "no": "914"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.924191,
+          37.521624
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "여의도",
+        "no": "915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.928422,
+          37.517274
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "샛강",
+        "no": "916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.942454,
+          37.514219
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "노량진",
+        "no": "917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.953222,
+          37.512887
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "노들",
+        "no": "918"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.963708,
+          37.50877
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "흑석",
+        "no": "919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.979306,
+          37.502971
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "동작",
+        "no": "920"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.987332,
+          37.501364
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "구반포",
+        "no": "921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.995925,
+          37.503415
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "신반포",
+        "no": "922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.004943,
+          37.50481
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "고속터미널",
+        "no": "923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.015259,
+          37.504206
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "사평",
+        "no": "924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.02506,
+          37.504598
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "신논현",
+        "no": "925"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.033868,
+          37.507287
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "언주",
+        "no": "926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.043593,
+          37.51098
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "선정릉",
+        "no": "927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.053282,
+          37.513011
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "삼성중앙",
+        "no": "928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.060245,
+          37.514219
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "봉은사",
+        "no": "929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.073642,
+          37.510997
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "종합운동장",
+        "no": "930"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.08801,
+          37.504312
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "삼전",
+        "no": "931"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.096939,
+          37.502414
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "석촌고분",
+        "no": "932"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.106979,
+          37.505431
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "석촌",
+        "no": "933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.112187,
+          37.510292
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "송파나루",
+        "no": "934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.116106,
+          37.516519
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "한성백제",
+        "no": "935"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.130848,
+          37.516078
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "올림픽공원",
+        "no": "936"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.138708,
+          37.519253
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "둔촌오륜",
+        "no": "937"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.148612,
+          37.528743
+        ]
+      },
+      "properties": {
+        "line": "09호선",
+        "name": "중앙보훈병원",
+        "no": "938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.046835,
+          37.580178
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "청량리",
+        "no": "K209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.037732,
+          37.561533
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "왕십리",
+        "no": "K210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.044707,
+          37.543617
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "서울숲",
+        "no": "K211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.040534,
+          37.527381
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "압구정로데오",
+        "no": "K212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.04128,
+          37.517186
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "강남구청",
+        "no": "K213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.043593,
+          37.51098
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "선정릉",
+        "no": "K214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.049008,
+          37.504503
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "선릉",
+        "no": "K215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.052873,
+          37.496237
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "한티",
+        "no": "K216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.055381,
+          37.490858
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "도곡",
+        "no": "K217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.058856,
+          37.486839
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "구룡",
+        "no": "K218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.06614,
+          37.489116
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "개포동",
+        "no": "K219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.07272,
+          37.491373
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "대모산입구",
+        "no": "K220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10188,
+          37.487371
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "수서",
+        "no": "K221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.126662,
+          37.470047
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "복정",
+        "no": "K222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.126697,
+          37.448605
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "가천대역",
+        "no": "K223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.127709,
+          37.440019
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "태평",
+        "no": "K224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.129087,
+          37.43213
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "모란",
+        "no": "K225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.128715,
+          37.411185
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "야탑",
+        "no": "K226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.12827,
+          37.396104
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "이매",
+        "no": "K227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.123592,
+          37.385126
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "서현",
+        "no": "K228"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.114322,
+          37.378455
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "수내",
+        "no": "K229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.108105,
+          37.36706
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "정자",
+        "no": "K230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10891,
+          37.350077
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "미금",
+        "no": "K231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.108942,
+          37.339824
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "오리",
+        "no": "K232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.107395,
+          37.324753
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "죽전",
+        "no": "K233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.108196,
+          37.312752
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "보정",
+        "no": "K234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.105664,
+          37.298969
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "구성",
+        "no": "K235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.111313,
+          37.286102
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "신갈",
+        "no": "K236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.115936,
+          37.275619
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "기흥",
+        "no": "K237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.108847,
+          37.26181
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "상갈",
+        "no": "K238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.078934,
+          37.259489
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "청명",
+        "no": "K239"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.071394,
+          37.251568
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "영통",
+        "no": "K240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.057353,
+          37.245795
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "망포",
+        "no": "K241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.040566,
+          37.252759
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "매탄권선",
+        "no": "K242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.030736,
+          37.261911
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "수원시청",
+        "no": "K243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.015678,
+          37.265481
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "매교",
+        "no": "K244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.999874,
+          37.265974
+        ]
+      },
+      "properties": {
+        "line": "분당선",
+        "name": "수원",
+        "no": "K245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.027926,
+          37.497175
+        ]
+      },
+      "properties": {
+        "line": "신분당선",
+        "name": "강남",
+        "no": "D07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.034631,
+          37.484147
+        ]
+      },
+      "properties": {
+        "line": "신분당선",
+        "name": "양재",
+        "no": "D08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.03842,
+          37.470023
+        ]
+      },
+      "properties": {
+        "line": "신분당선",
+        "name": "양재시민의숲",
+        "no": "D09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.055664,
+          37.447211
+        ]
+      },
+      "properties": {
+        "line": "신분당선",
+        "name": "청계산입구",
+        "no": "D10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.111217,
+          37.394761
+        ]
+      },
+      "properties": {
+        "line": "신분당선",
+        "name": "판교",
+        "no": "D11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.108105,
+          37.36706
+        ]
+      },
+      "properties": {
+        "line": "신분당선",
+        "name": "정자",
+        "no": "D12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10891,
+          37.350077
+        ]
+      },
+      "properties": {
+        "line": "신분당선",
+        "name": "미금",
+        "no": "D13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.102976,
+          37.337928
+        ]
+      },
+      "properties": {
+        "line": "신분당선",
+        "name": "동천",
+        "no": "D14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.095026,
+          37.322702
+        ]
+      },
+      "properties": {
+        "line": "신분당선",
+        "name": "수지구청",
+        "no": "D15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0801,
+          37.313335
+        ]
+      },
+      "properties": {
+        "line": "신분당선",
+        "name": "성복",
+        "no": "D16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.069342,
+          37.297664
+        ]
+      },
+      "properties": {
+        "line": "신분당선",
+        "name": "상현",
+        "no": "D17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.051478,
+          37.288617
+        ]
+      },
+      "properties": {
+        "line": "신분당선",
+        "name": "광교중앙",
+        "no": "D18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.044483,
+          37.30211
+        ]
+      },
+      "properties": {
+        "line": "신분당선",
+        "name": "광교",
+        "no": "D19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.738714,
+          37.362357
+        ]
+      },
+      "properties": {
+        "line": "수인선",
+        "name": "오이도",
+        "no": "K250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.745177,
+          37.379681
+        ]
+      },
+      "properties": {
+        "line": "수인선",
+        "name": "달월",
+        "no": "K251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.742699,
+          37.391769
+        ]
+      },
+      "properties": {
+        "line": "수인선",
+        "name": "월곶",
+        "no": "K252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.733522,
+          37.40095
+        ]
+      },
+      "properties": {
+        "line": "수인선",
+        "name": "소래포구",
+        "no": "K253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.722478,
+          37.400614
+        ]
+      },
+      "properties": {
+        "line": "수인선",
+        "name": "인천논현",
+        "no": "K254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.708627,
+          37.401637
+        ]
+      },
+      "properties": {
+        "line": "수인선",
+        "name": "호구포",
+        "no": "K255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.695216,
+          37.407722
+        ]
+      },
+      "properties": {
+        "line": "수인선",
+        "name": "남동인더스파크",
+        "no": "K256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.687389,
+          37.412603
+        ]
+      },
+      "properties": {
+        "line": "수인선",
+        "name": "원인재",
+        "no": "K257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.67894,
+          37.417804
+        ]
+      },
+      "properties": {
+        "line": "수인선",
+        "name": "연수",
+        "no": "K258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.657772,
+          37.428514
+        ]
+      },
+      "properties": {
+        "line": "수인선",
+        "name": "송도",
+        "no": "K259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.649619,
+          37.448493
+        ]
+      },
+      "properties": {
+        "line": "수인선",
+        "name": "인하대",
+        "no": "K261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.638297,
+          37.460789
+        ]
+      },
+      "properties": {
+        "line": "수인선",
+        "name": "숭의",
+        "no": "K262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.623853,
+          37.46874
+        ]
+      },
+      "properties": {
+        "line": "수인선",
+        "name": "신포",
+        "no": "K263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.616936,
+          37.476691
+        ]
+      },
+      "properties": {
+        "line": "수인선",
+        "name": "인천",
+        "no": "K264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.735637,
+          37.571462
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "계양",
+        "no": "I110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.742654,
+          37.566379
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "귤현",
+        "no": "I111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.745077,
+          37.553703
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "박촌",
+        "no": "I112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.738665,
+          37.545059
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "임학",
+        "no": "I113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.728128,
+          37.543238
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "계산",
+        "no": "I114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.722597,
+          37.538157
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "경인교대입구",
+        "no": "I115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.722527,
+          37.530415
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "작전",
+        "no": "I116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.721514,
+          37.517268
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "갈산",
+        "no": "I117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.720548,
+          37.508336
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "부평구청",
+        "no": "I118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.722244,
+          37.498383
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "부평시장",
+        "no": "I119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.724805,
+          37.489493
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "부평",
+        "no": "I120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.718247,
+          37.485312
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "동수",
+        "no": "I121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.710208,
+          37.477679
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "부평삼거리",
+        "no": "I122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.707938,
+          37.467048
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "간석오거리",
+        "no": "I123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.702221,
+          37.457405
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "인천시청",
+        "no": "I124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.701012,
+          37.449396
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "예술회관",
+        "no": "I125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.699706,
+          37.442383
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "인천터미널",
+        "no": "I126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.698579,
+          37.434935
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "문학경기장",
+        "no": "I127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.698863,
+          37.426684
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "선학",
+        "no": "I128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.693863,
+          37.41804
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "신연수",
+        "no": "I129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.687389,
+          37.412603
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "원인재",
+        "no": "I130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.681015,
+          37.404737
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "동춘",
+        "no": "I131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.674005,
+          37.397878
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "동막",
+        "no": "I132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.661673,
+          37.387855
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "캠퍼스타운",
+        "no": "I133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.656365,
+          37.382268
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "테크노파크",
+        "no": "I134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.645168,
+          37.378384
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "지식정보단지",
+        "no": "I135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.639484,
+          37.386007
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "인천대입구",
+        "no": "I136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.634729,
+          37.393054
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "센트럴파크",
+        "no": "I137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.630347,
+          37.399907
+        ]
+      },
+      "properties": {
+        "line": "인천선",
+        "name": "국제업무지구",
+        "no": "I138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.627178,
+          37.594877
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "검단오류",
+        "no": "I201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.642696,
+          37.59518
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "왕길",
+        "no": "I202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.657108,
+          37.60185
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "검단사거리",
+        "no": "I203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.666998,
+          37.597566
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "마전",
+        "no": "I204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.673203,
+          37.592928
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "완정",
+        "no": "I205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.675844,
+          37.585212
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "독정",
+        "no": "I206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.673728,
+          37.569104
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "검암",
+        "no": "I207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.677566,
+          37.561405
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "검바위",
+        "no": "I208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.677122,
+          37.5517
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "아시아드경기장",
+        "no": "I209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.676787,
+          37.543742
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "서구청",
+        "no": "I210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.675539,
+          37.524649
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "가정",
+        "no": "I211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.676672,
+          37.517054
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "가정중앙시장",
+        "no": "I212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.676203,
+          37.506193
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "석남",
+        "no": "I213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.676203,
+          37.506193
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "서부여성회관",
+        "no": "I214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.675208,
+          37.4897
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "인천가좌",
+        "no": "I215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.683673,
+          37.484192
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "가재울",
+        "no": "I216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.68113,
+          37.473703
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "주안국가산단",
+        "no": "I217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.679923,
+          37.464941
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "주안",
+        "no": "I218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.681192,
+          37.458335
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "시민공원",
+        "no": "I219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.692575,
+          37.457611
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "석바위시장",
+        "no": "I220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.702221,
+          37.457405
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "인천시청",
+        "no": "I221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.709986,
+          37.456805
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "석천사거리",
+        "no": "I222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.719298,
+          37.45583
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "모래내시장",
+        "no": "I223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.732094,
+          37.454911
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "만수",
+        "no": "I224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.736939,
+          37.448161
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "남동구청",
+        "no": "I225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.752618,
+          37.448769
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "인천대공원",
+        "no": "I226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.75997,
+          37.440127
+        ]
+      },
+      "properties": {
+        "line": "인천2호선",
+        "name": "운연",
+        "no": "I227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.964561,
+          37.529849
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "용산",
+        "no": "K110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.974345,
+          37.522272
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "이촌",
+        "no": "K111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.988537,
+          37.519594
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "서빙고",
+        "no": "K112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.009169,
+          37.52943
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "한남",
+        "no": "K113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.017965,
+          37.540685
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "옥수",
+        "no": "K114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.034538,
+          37.549946
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "응봉",
+        "no": "K115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.037732,
+          37.561533
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "왕십리",
+        "no": "K116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.046835,
+          37.580178
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "청량리",
+        "no": "K117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.057583,
+          37.58946
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "회기",
+        "no": "K118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.076116,
+          37.594917
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "중랑",
+        "no": "K119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.085032,
+          37.596362
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "상봉",
+        "no": "K120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.091909,
+          37.59955
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "망우",
+        "no": "K121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.107906,
+          37.606596
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "양원",
+        "no": "K122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.143869,
+          37.603392
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "구리",
+        "no": "K123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.161153,
+          37.608806
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "도농",
+        "no": "K124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.19364,
+          37.60533
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "양정",
+        "no": "K125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.208832,
+          37.586781
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "덕소",
+        "no": "K126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.222672,
+          37.579622
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "도심",
+        "no": "K127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.243939,
+          37.547371
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "팔당",
+        "no": "K128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.310115,
+          37.554669
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "운길산",
+        "no": "K129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.329098,
+          37.545981
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "양수",
+        "no": "K130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.372921,
+          37.525545
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "신원",
+        "no": "K131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.399367,
+          37.516169
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "국수",
+        "no": "K132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.443173,
+          37.51382
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "아신",
+        "no": "K133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.473868,
+          37.506062
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "오빈",
+        "no": "K134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.491814,
+          37.492832
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "양평(중앙선)",
+        "no": "K135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.547076,
+          37.468672
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "원덕",
+        "no": "K136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.594647,
+          37.48223
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "용문",
+        "no": "K137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.629617,
+          37.476444
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "지평",
+        "no": "K138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.961351,
+          37.539261
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "효창공원앞",
+        "no": "K311"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.951592,
+          37.544018
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "공덕",
+        "no": "K312"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.935711,
+          37.551881
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "서강대",
+        "no": "K313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.925381,
+          37.557192
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "홍대입구",
+        "no": "K314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.915487,
+          37.568491
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "가좌",
+        "no": "K315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.900984,
+          37.576646
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "디지털미디어시티",
+        "no": "K316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.895611,
+          37.580842
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "수색",
+        "no": "K317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.868387,
+          37.602888
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "화전",
+        "no": "K318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.843223,
+          37.612314
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "강매",
+        "no": "K319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.834146,
+          37.612102
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "행신",
+        "no": "K320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.820783,
+          37.618808
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "능곡",
+        "no": "K321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.811024,
+          37.631626
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "대곡",
+        "no": "K322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.801762,
+          37.645676
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "곡산",
+        "no": "K323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.794461,
+          37.658239
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "백마",
+        "no": "K324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.786243,
+          37.672346
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "풍산",
+        "no": "K325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.769846,
+          37.682077
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "일산",
+        "no": "K326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.761086,
+          37.694023
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "탄현",
+        "no": "K327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.761356,
+          37.712327
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "야당",
+        "no": "K328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.767257,
+          37.725826
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "운정",
+        "no": "K329"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.765347,
+          37.751322
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "금릉",
+        "no": "K330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.774644,
+          37.766217
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "금촌",
+        "no": "K331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.792587,
+          37.796188
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "월롱",
+        "no": "K333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.792783,
+          37.815298
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "파주",
+        "no": "K334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.788047,
+          37.854619
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "문산",
+        "no": "K335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.746922,
+          37.888599
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "임진강",
+        "no": "K336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.972559,
+          37.554648
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "서울역",
+        "no": "P313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.942696,
+          37.559837
+        ]
+      },
+      "properties": {
+        "line": "경의선",
+        "name": "신촌(경의선)",
+        "no": "P314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.972559,
+          37.554648
+        ]
+      },
+      "properties": {
+        "line": "공항철도",
+        "name": "서울역",
+        "no": "A01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.951592,
+          37.544018
+        ]
+      },
+      "properties": {
+        "line": "공항철도",
+        "name": "공덕",
+        "no": "A02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.925381,
+          37.557192
+        ]
+      },
+      "properties": {
+        "line": "공항철도",
+        "name": "홍대입구",
+        "no": "A03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.900984,
+          37.576646
+        ]
+      },
+      "properties": {
+        "line": "공항철도",
+        "name": "디지털미디어시티",
+        "no": "A04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.829497,
+          37.567336
+        ]
+      },
+      "properties": {
+        "line": "공항철도",
+        "name": "마곡나루",
+        "no": "A042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.801058,
+          37.562434
+        ]
+      },
+      "properties": {
+        "line": "공항철도",
+        "name": "김포공항",
+        "no": "A05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.735637,
+          37.571462
+        ]
+      },
+      "properties": {
+        "line": "공항철도",
+        "name": "계양",
+        "no": "A06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.673728,
+          37.569104
+        ]
+      },
+      "properties": {
+        "line": "공항철도",
+        "name": "검암",
+        "no": "A07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.625327,
+          37.555878
+        ]
+      },
+      "properties": {
+        "line": "공항철도",
+        "name": "청라국제도시",
+        "no": "A071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5237,
+          37.511466
+        ]
+      },
+      "properties": {
+        "line": "공항철도",
+        "name": "영종",
+        "no": "A072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.49379,
+          37.492904
+        ]
+      },
+      "properties": {
+        "line": "공항철도",
+        "name": "운서",
+        "no": "A08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.476241,
+          37.458366
+        ]
+      },
+      "properties": {
+        "line": "공항철도",
+        "name": "공항화물청사",
+        "no": "A09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.046835,
+          37.580178
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "청량리",
+        "no": "P117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.057583,
+          37.58946
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "회기",
+        "no": "P118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.076116,
+          37.594917
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "중랑",
+        "no": "P119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.085032,
+          37.596362
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "상봉",
+        "no": "P120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.091909,
+          37.59955
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "망우",
+        "no": "P121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.103218,
+          37.612887
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "신내",
+        "no": "P122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.114757,
+          37.634118
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "갈매",
+        "no": "P123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.12684,
+          37.64202
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "별내",
+        "no": "P124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.143952,
+          37.648311
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "퇴계원",
+        "no": "P125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.176933,
+          37.65108
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "사릉",
+        "no": "P126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.207853,
+          37.637382
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "금곡",
+        "no": "P127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.244493,
+          37.653225
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "평내호평",
+        "no": "P128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.285379,
+          37.658978
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "천마산",
+        "no": "P129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.311767,
+          37.652782
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "마석",
+        "no": "P130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.379319,
+          37.684071
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "대성리",
+        "no": "P131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.42661,
+          37.735488
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "청평",
+        "no": "P132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.454821,
+          37.770246
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "상천",
+        "no": "P133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.510739,
+          37.814536
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "가평",
+        "no": "P134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.557695,
+          37.832067
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "굴봉산",
+        "no": "P135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.58933,
+          37.830779
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "백양리",
+        "no": "P136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.634146,
+          37.805723
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "강촌",
+        "no": "P137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.71434,
+          37.818466
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "김유정",
+        "no": "P138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.723792,
+          37.864007
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "남춘천",
+        "no": "P139"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.717023,
+          37.885054
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "춘천",
+        "no": "P140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.061835,
+          37.623632
+        ]
+      },
+      "properties": {
+        "line": "경춘선",
+        "name": "광운대",
+        "no": "nan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.052803,
+          37.727048
+        ]
+      },
+      "properties": {
+        "line": "의정부경전철",
+        "name": "발곡",
+        "no": "U110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.046895,
+          37.724846
+        ]
+      },
+      "properties": {
+        "line": "의정부경전철",
+        "name": "회룡",
+        "no": "U111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.04353,
+          37.728755
+        ]
+      },
+      "properties": {
+        "line": "의정부경전철",
+        "name": "범골",
+        "no": "U112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.043257,
+          37.737202
+        ]
+      },
+      "properties": {
+        "line": "의정부경전철",
+        "name": "경전철의정부",
+        "no": "U113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.034781,
+          37.739256
+        ]
+      },
+      "properties": {
+        "line": "의정부경전철",
+        "name": "의정부시청",
+        "no": "U114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.037023,
+          37.743302
+        ]
+      },
+      "properties": {
+        "line": "의정부경전철",
+        "name": "흥선",
+        "no": "U115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.049565,
+          37.743676
+        ]
+      },
+      "properties": {
+        "line": "의정부경전철",
+        "name": "의정부중앙",
+        "no": "U117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.056947,
+          37.745271
+        ]
+      },
+      "properties": {
+        "line": "의정부경전철",
+        "name": "동오",
+        "no": "U118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.06362,
+          37.748885
+        ]
+      },
+      "properties": {
+        "line": "의정부경전철",
+        "name": "새말",
+        "no": "U119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.071495,
+          37.75059
+        ]
+      },
+      "properties": {
+        "line": "의정부경전철",
+        "name": "경기도청북부청사",
+        "no": "U120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.076902,
+          37.754025
+        ]
+      },
+      "properties": {
+        "line": "의정부경전철",
+        "name": "효자",
+        "no": "U121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.083715,
+          37.750471
+        ]
+      },
+      "properties": {
+        "line": "의정부경전철",
+        "name": "곤제",
+        "no": "U122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.085035,
+          37.742802
+        ]
+      },
+      "properties": {
+        "line": "의정부경전철",
+        "name": "어룡",
+        "no": "U123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.087159,
+          37.737279
+        ]
+      },
+      "properties": {
+        "line": "의정부경전철",
+        "name": "송산",
+        "no": "U124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.088704,
+          37.733579
+        ]
+      },
+      "properties": {
+        "line": "의정부경전철",
+        "name": "탑석",
+        "no": "U125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.012789,
+          37.663146
+        ]
+      },
+      "properties": {
+        "line": "우이신설경전철",
+        "name": "북한산우이",
+        "no": "S110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.013252,
+          37.656088
+        ]
+      },
+      "properties": {
+        "line": "우이신설경전철",
+        "name": "솔밭공원",
+        "no": "S111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.013746,
+          37.649593
+        ]
+      },
+      "properties": {
+        "line": "우이신설경전철",
+        "name": "4.19민주묘지",
+        "no": "S112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.016792,
+          37.641701
+        ]
+      },
+      "properties": {
+        "line": "우이신설경전철",
+        "name": "가오리",
+        "no": "S113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.017519,
+          37.634802
+        ]
+      },
+      "properties": {
+        "line": "우이신설경전철",
+        "name": "화계",
+        "no": "S114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.018152,
+          37.627165
+        ]
+      },
+      "properties": {
+        "line": "우이신설경전철",
+        "name": "삼양",
+        "no": "S115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.02048,
+          37.621512
+        ]
+      },
+      "properties": {
+        "line": "우이신설경전철",
+        "name": "삼양사거리",
+        "no": "S116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.013528,
+          37.62124
+        ]
+      },
+      "properties": {
+        "line": "우이신설경전철",
+        "name": "솔샘",
+        "no": "S117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.008009,
+          37.612343
+        ]
+      },
+      "properties": {
+        "line": "우이신설경전철",
+        "name": "북한산보국문",
+        "no": "S118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.01349,
+          37.602798
+        ]
+      },
+      "properties": {
+        "line": "우이신설경전철",
+        "name": "정릉",
+        "no": "S119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.016403,
+          37.592624
+        ]
+      },
+      "properties": {
+        "line": "우이신설경전철",
+        "name": "성신여대입구",
+        "no": "S120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.019381,
+          37.585286
+        ]
+      },
+      "properties": {
+        "line": "우이신설경전철",
+        "name": "보문",
+        "no": "S121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.025087,
+          37.575297
+        ]
+      },
+      "properties": {
+        "line": "우이신설경전철",
+        "name": "신설동",
+        "no": "S122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.115936,
+          37.275619
+        ]
+      },
+      "properties": {
+        "line": "용인경전철",
+        "name": "기흥",
+        "no": "Y110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.126033,
+          37.270161
+        ]
+      },
+      "properties": {
+        "line": "용인경전철",
+        "name": "강남대",
+        "no": "Y111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.136515,
+          37.269606
+        ]
+      },
+      "properties": {
+        "line": "용인경전철",
+        "name": "지석",
+        "no": "Y112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.143714,
+          37.274917
+        ]
+      },
+      "properties": {
+        "line": "용인경전철",
+        "name": "어정",
+        "no": "Y113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.152716,
+          37.269043
+        ]
+      },
+      "properties": {
+        "line": "용인경전철",
+        "name": "동백",
+        "no": "Y114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.159443,
+          37.260752
+        ]
+      },
+      "properties": {
+        "line": "용인경전철",
+        "name": "초당",
+        "no": "Y115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.168075,
+          37.242115
+        ]
+      },
+      "properties": {
+        "line": "용인경전철",
+        "name": "삼가",
+        "no": "Y116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.178406,
+          37.239151
+        ]
+      },
+      "properties": {
+        "line": "용인경전철",
+        "name": "시청.용인대",
+        "no": "Y117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.190294,
+          37.237964
+        ]
+      },
+      "properties": {
+        "line": "용인경전철",
+        "name": "명지대",
+        "no": "Y118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.198781,
+          37.237247
+        ]
+      },
+      "properties": {
+        "line": "용인경전철",
+        "name": "김량장",
+        "no": "Y119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.209198,
+          37.237845
+        ]
+      },
+      "properties": {
+        "line": "용인경전철",
+        "name": "운동장.송담대",
+        "no": "Y120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.214251,
+          37.24484
+        ]
+      },
+      "properties": {
+        "line": "용인경전철",
+        "name": "고진",
+        "no": "Y121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.218457,
+          37.258965
+        ]
+      },
+      "properties": {
+        "line": "용인경전철",
+        "name": "보평",
+        "no": "Y122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.21364,
+          37.267051
+        ]
+      },
+      "properties": {
+        "line": "용인경전철",
+        "name": "둔전",
+        "no": "Y123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.219561,
+          37.285342
+        ]
+      },
+      "properties": {
+        "line": "용인경전철",
+        "name": "전대.에버랜드",
+        "no": "Y124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.111217,
+          37.394761
+        ]
+      },
+      "properties": {
+        "line": "경강선",
+        "name": "판교",
+        "no": "K410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.12827,
+          37.396104
+        ]
+      },
+      "properties": {
+        "line": "경강선",
+        "name": "이매",
+        "no": "K411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.20336,
+          37.409522
+        ]
+      },
+      "properties": {
+        "line": "경강선",
+        "name": "삼동",
+        "no": "K412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.253115,
+          37.398972
+        ]
+      },
+      "properties": {
+        "line": "경강선",
+        "name": "경기광주",
+        "no": "K413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.299,
+          37.374419
+        ]
+      },
+      "properties": {
+        "line": "경강선",
+        "name": "초월",
+        "no": "K414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.34674,
+          37.351315
+        ]
+      },
+      "properties": {
+        "line": "경강선",
+        "name": "곤지암",
+        "no": "K415"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.40476,
+          37.317185
+        ]
+      },
+      "properties": {
+        "line": "경강선",
+        "name": "신둔도예촌",
+        "no": "K416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.44226,
+          37.265579
+        ]
+      },
+      "properties": {
+        "line": "경강선",
+        "name": "이천",
+        "no": "K417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.490277,
+          37.260192
+        ]
+      },
+      "properties": {
+        "line": "경강선",
+        "name": "부발",
+        "no": "K418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.570938,
+          37.295309
+        ]
+      },
+      "properties": {
+        "line": "경강선",
+        "name": "세종대왕릉",
+        "no": "K419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.628607,
+          37.282701
+        ]
+      },
+      "properties": {
+        "line": "경강선",
+        "name": "여주",
+        "no": "K420"
+      }
+    }
+  ]
+}
